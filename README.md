@@ -1,3 +1,3 @@
 # vending-machine
-My first professional project
+Application for Vending Machine
 Author - Manoj Kumar Rai
